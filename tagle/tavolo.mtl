@@ -1,0 +1,17 @@
+# File produced by 
+
+newmtl _0_053
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 0.6471 0.6471 0.3216
+  Ka 0 0 0
+  Ks 0 0 0
+
+newmtl _0_143
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 0.3216 0.5686 0.6471
+  Ka 0 0 0
+  Ks 0 0 0
