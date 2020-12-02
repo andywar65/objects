@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE kml>
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+  <Document xmlns="">
+    <name xmlns="">sample01</name>
+    <Folder xmlns="">
+      <name xmlns="">Model</name>
+      <open xmlns="">0</open>
+      <Folder xmlns="">
+        <name xmlns="">Polyline [2A5]</name>
+        <open xmlns="">0</open>
+        <Placemark xmlns="">
+          <name xmlns="">Polyline [2A5]</name>
+          <Style xmlns="">
+            <PolyStyle xmlns="">
+              <color xmlns="">ffffffff</color>
+              <outline xmlns="">0</outline>
+            </PolyStyle>
+          </Style>
+          <MultiGeometry xmlns="">
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4276066689181,41.8905709063778,0.0000
+12.4274015640344,41.8904255141086,0.0000
+12.4274143075912,41.8904743182694,0.0000
+12.4276066689181,41.8905709063778,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4273581473223,41.8902344448646,0.0000
+12.4271562099604,41.8904315635165,0.0000
+12.4271830616034,41.8904276780641,0.0000
+12.4273581473223,41.8902344448646,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4271562099604,41.8904315635165,0.0000
+12.4264866692894,41.8900801778810,0.0000
+12.4264912362912,41.8900976681858,0.0000
+12.4271562099604,41.8904315635165,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4264866692894,41.8900801778810,0.0000
+12.4265821591838,41.8899973212154,0.0000
+12.4265586639962,41.8900007209862,0.0000
+12.4264866692894,41.8900801778810,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4268549065502,41.8899529925558,0.0000
+12.4265581921112,41.8897888097282,0.0000
+12.4265627591130,41.8898063000330,0.0000
+12.4268549065502,41.8899529925558,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4265581921112,41.8897888097282,0.0000
+12.4267547449978,41.8895944149803,0.0000
+12.4267312498101,41.8895978147511,0.0000
+12.4265581921112,41.8897888097282,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4267547449978,41.8895944149803,0.0000
+12.4271246215738,41.8897953338427,0.0000
+12.4271200545719,41.8897778435380,0.0000
+12.4267547449978,41.8895944149803,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4271612716027,41.8899657077903,0.0000
+12.4273415471023,41.8897924962337,0.0000
+12.4273146954592,41.8897963816861,0.0000
+12.4271612716027,41.8899657077903,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4276111445657,41.8899278660060,0.0000
+12.4277237486986,41.8899629145940,0.0000
+12.4276443717788,41.8899230580040,0.0000
+12.4276111445657,41.8899278660060,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4277237486986,41.8899629145940,0.0000
+12.4278415834795,41.8898601224870,0.0000
+12.4278131605262,41.8898642353092,0.0000
+12.4277237486986,41.8899629145940,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4278415834795,41.8898601224870,0.0000
+12.4283673887689,41.8901425233542,0.0000
+12.4283618639064,41.8901213647185,0.0000
+12.4278415834795,41.8898601224870,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4283673887689,41.8901425233542,0.0000
+12.4281171791540,41.8903914108301,0.0000
+12.4281456021074,41.8903872980080,0.0000
+12.4283673887689,41.8901425233542,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4278932506782,41.8903761253677,0.0000
+12.4279244763331,41.8904148878863,0.0000
+12.4279175393247,41.8903883211373,0.0000
+12.4278932506782,41.8903761253677,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4279244763331,41.8904148878863,0.0000
+12.4276066689181,41.8905709063778,0.0000
+12.4278097344686,41.8905415226440,0.0000
+12.4279244763331,41.8904148878863,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4276066689181,41.8905709063778,0.0000
+12.4275069771488,41.8903091750177,0.0000
+12.4274015640344,41.8904255141086,0.0000
+12.4276066689181,41.8905709063778,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4273581473223,41.8902344448646,0.0000
+12.4264866692894,41.8900801778810,0.0000
+12.4271562099604,41.8904315635165,0.0000
+12.4273581473223,41.8902344448646,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4264866692894,41.8900801778810,0.0000
+12.4267420134419,41.8900775869354,0.0000
+12.4265821591838,41.8899973212154,0.0000
+12.4264866692894,41.8900801778810,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4268549065502,41.8899529925558,0.0000
+12.4267547449978,41.8895944149803,0.0000
+12.4265581921112,41.8897888097282,0.0000
+12.4268549065502,41.8899529925558,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4267547449978,41.8895944149803,0.0000
+12.4270299806446,41.8898997842208,0.0000
+12.4271246215738,41.8897953338427,0.0000
+12.4267547449978,41.8895944149803,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4271612716027,41.8899657077903,0.0000
+12.4276111445657,41.8899278660060,0.0000
+12.4273415471023,41.8897924962337,0.0000
+12.4271612716027,41.8899657077903,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4277237486986,41.8899629145940,0.0000
+12.4283673887689,41.8901425233542,0.0000
+12.4278415834795,41.8898601224870,0.0000
+12.4277237486986,41.8899629145940,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4283673887689,41.8901425233542,0.0000
+12.4279537532722,41.8903093517331,0.0000
+12.4281171791540,41.8903914108301,0.0000
+12.4283673887689,41.8901425233542,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4278932506782,41.8903761253677,0.0000
+12.4276066689181,41.8905709063778,0.0000
+12.4279244763331,41.8904148878863,0.0000
+12.4278932506782,41.8903761253677,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4273581473223,41.8902344448646,0.0000
+12.4267420134419,41.8900775869354,0.0000
+12.4264866692894,41.8900801778810,0.0000
+12.4273581473223,41.8902344448646,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4268549065502,41.8899529925558,0.0000
+12.4270299806446,41.8898997842208,0.0000
+12.4267547449978,41.8895944149803,0.0000
+12.4268549065502,41.8899529925558,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4271612716027,41.8899657077903,0.0000
+12.4277237486986,41.8899629145940,0.0000
+12.4276111445657,41.8899278660060,0.0000
+12.4271612716027,41.8899657077903,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4277237486986,41.8899629145940,0.0000
+12.4279537532722,41.8903093517331,0.0000
+12.4283673887689,41.8901425233542,0.0000
+12.4277237486986,41.8899629145940,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4279537532722,41.8903093517331,0.0000
+12.4276066689181,41.8905709063778,0.0000
+12.4278932506782,41.8903761253677,0.0000
+12.4279537532722,41.8903093517331,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4273581473223,41.8902344448646,0.0000
+12.4268549065502,41.8899529925558,0.0000
+12.4267420134419,41.8900775869354,0.0000
+12.4273581473223,41.8902344448646,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4268549065502,41.8899529925558,0.0000
+12.4271612716027,41.8899657077903,0.0000
+12.4270299806446,41.8898997842208,0.0000
+12.4268549065502,41.8899529925558,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4271612716027,41.8899657077903,0.0000
+12.4279537532722,41.8903093517331,0.0000
+12.4277237486986,41.8899629145940,0.0000
+12.4271612716027,41.8899657077903,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4279537532722,41.8903093517331,0.0000
+12.4275069771488,41.8903091750177,0.0000
+12.4276066689181,41.8905709063778,0.0000
+12.4279537532722,41.8903093517331,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4275069771488,41.8903091750177,0.0000
+12.4268549065502,41.8899529925558,0.0000
+12.4273581473223,41.8902344448646,0.0000
+12.4275069771488,41.8903091750177,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4268549065502,41.8899529925558,0.0000
+12.4279537532722,41.8903093517331,0.0000
+12.4271612716027,41.8899657077903,0.0000
+12.4268549065502,41.8899529925558,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+            <Polygon xmlns="">
+              <altitudeMode xmlns="">relativeToGround</altitudeMode>
+              <outerBoundaryIs xmlns="">
+                <LinearRing xmlns="">
+                  <coordinates xmlns="">
+12.4279537532722,41.8903093517331,0.0000
+12.4268549065502,41.8899529925558,0.0000
+12.4275069771488,41.8903091750177,0.0000
+12.4279537532722,41.8903093517331,0.0000
+</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+
+</kml>
